@@ -16,7 +16,9 @@
 </p>
 
 ## RESUESTS
-```This repo require a NodeJS >= 11.15.0.```
+```bash
+This repo require a NodeJS >= 11.15.0.
+```
 
 ## Install
 Ikuti aja ngab
