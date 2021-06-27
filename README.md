@@ -16,7 +16,7 @@
 </p>
 
 ## RESUESTS
-`This repo require a NodeJS >= 11.15.0.`
+``This repo require a NodeJS >= 11.15.0.``
 
 ## Install
 Ikuti aja ngab
@@ -31,11 +31,11 @@ Ikuti aja ngab
 
 ## HOW TO RUN SC
 
-`node mukty.js`
+``node mukty.js``
 or
-`npm start`
+``npm start``
 or
-`python3 mukty.py`
+``python3 mukty.py``
 
 ## Extra key info
 ```bash
