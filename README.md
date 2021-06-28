@@ -26,9 +26,9 @@ Ikuti aja ngab
 ```bash
 > pkg install git
 > pkg install python3
-> git clone https://github.com/Riripii/wiki
-> cd wiki
-> python3 wiki.py
+> git clone https://github.com/Riripii/mukty-botz
+> cd mukty-botz
+> python3 mukty.py
 ```
 
 ## HOW TO RUN SC
